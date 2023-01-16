@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4044C0B305016EA9aB2f295c9a69bdEf247E7188",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4044C0B305016EA9aB2f295c9a69bdEf247E7188",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "EGO EYES V2",
+  "SYMBOL": "EE2",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/ja/collection/egoeyesv2",
+  "SHOW_BACKGROUND": false
+}
